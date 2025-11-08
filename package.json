@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://govalejo06-coder.github.io/app_gio/",  // Aquí agregas la URL
+  "homepage": "https://govalejo06-coder.github.io/app_gio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
